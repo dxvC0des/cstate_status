@@ -143,9 +143,6 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: East Coast
-      description: The main servers are located here.
-      closed: true
     - name: Servers (East)
       description: Servers Located In the East
     - name: Uncategorized
@@ -159,18 +156,18 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Server 1
-      category: Servers (East)
     - name: Website (Domain)
-      description: The web frontend for the application.
+      description: The Main Website
       category: Uncategorized
       link: https://dxvprojects.org
     - name: CDS Server
       description: Content Delivery Service Server
       category: Servers (East)
-      link: https://cds.dxvprojects.org
     - name: CDN Server
       description: Content Delivery Network Server
+      category: Servers (East)
+    - name: Redirect Server
+      description: The Links Server / Subdomain.
       category: Servers (East)
 
   # What date format to use?
