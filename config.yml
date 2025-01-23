@@ -158,7 +158,7 @@ params:
   systems:
     - name: Website (Domain)
       description: The Main Website
-      category: Uncategorized
+      category: Servers (East)
       link: https://dxvprojects.org
     - name: CDS Server
       description: Content Delivery Service Server
