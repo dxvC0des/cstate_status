@@ -8,4 +8,4 @@ affected:
 section: issue
 ---
 Issue - 1/24/2025
-Website going to be down for a few hours. Visit our temp site: cds.dxvprojects.org/tempcontent {{< track "2025-01-25 08:28:00" >}}
+Website going to be down for a few hours. Visit our temp site: cds.dxvprojects.org/tempcontent
