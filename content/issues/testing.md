@@ -1,11 +1,6 @@
 —
 title: Major outage in East US
 date: 2017-02-30 14:30:00
-resolved: true
-resolvedWhen: 2017-02-30 16:00:00
-severity: down
-affected:
-  - CDN Server
 section: issue
 —
 
