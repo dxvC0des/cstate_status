@@ -296,10 +296,9 @@ params:
   #
   # Format:
   # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
-
+customTabs:
+ - name: Monitoring
+   link: https://stats.uptimerobot.com/2lFMWWuQLc/798730937
   # Disable complex server-side
   # calculations that may impact
   # your build performance
