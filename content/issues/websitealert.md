@@ -6,6 +6,7 @@ severity: notice
 affected:
 - Website (Domain)
 section: issue
+resolved: true
 ---
 Issue - 1/24/2025
 Website going to be down for a few hours. Visit our temp site: cds.dxvprojects.org/tempcontent
