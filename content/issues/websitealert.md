@@ -7,6 +7,7 @@ affected:
 - Website (Domain)
 section: issue
 resolved: true
+resolvedWhen: 2025-02-15 18:00:00
 ---
 Issue - 1/24/2025
 Website going to be down for a few hours. Visit our temp site: cds.dxvprojects.org/tempcontent
