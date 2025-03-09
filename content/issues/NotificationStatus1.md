@@ -1,6 +1,6 @@
 ---
 title: Maintenance Announcement 
-date: 2025-03-09 18:40:00 -0400
+date: 2025-03-09 18:40:00
 informational: true
 pin: false 
 section: issue
